@@ -1,0 +1,61 @@
+
+.garis {
+    background-color: #C9BEB6;
+    width: auto;
+    border-top: 50px white solid;    
+    height: 20px;
+    margin: 0;
+}
+
+.garis2 {
+    position: absolute;
+    background-color: #C9BEB6;
+    width: 1325px;
+    border-bottom: 50px white solid;    
+    height: 20px;
+    margin: 0;
+    top: 1050px;
+}
+
+.product {
+    position: absolute;
+    font-family: calibri;
+    font-weight:bold;
+    font-size: 42px;
+    top: 40px;
+    left: 550px;
+    background-color: white;
+    width: 250px;
+    text-align: center;
+    color: #C9BEB6;
+}
+
+.img {
+    position: absolute;
+    top: 150px;
+    width: 23%;
+    height: auto;
+}
+
+.img2 {
+    position: absolute;
+    top: 600px;
+    width: 23%;
+    height: auto;
+}
+
+.text {
+    position: absolute;
+    color: #C9BEB6;
+    font-size: 52px;
+    font-family: calibri;
+    top: 450px;
+}
+
+.text2 {
+    position: absolute;
+    color: #C9BEB6;
+    font-size: 52px;
+    font-family: calibri;
+    top: 900px;
+}

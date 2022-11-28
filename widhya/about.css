@@ -1,0 +1,73 @@
+
+.garis {
+    background-color: #C9BEB6;
+    width: auto;
+    border-top: 50px white solid;    
+    height: 20px;
+    margin: 0;
+}
+
+.garis2 {
+    position: absolute;
+    background-color: #C9BEB6;
+    width: 1325px;
+    border-bottom: 50px white solid;    
+    height: 20px;
+    margin: 0;
+    top: 600px;
+}
+
+.about {
+    position: absolute;
+    font-family: calibri;
+    font-weight:bold;
+    font-size: 42px;
+    top: 40px;
+    left: 550px;
+    background-color: white;
+    width: 250px;
+    text-align: center;
+    color: #C9BEB6;
+}
+
+.wuta {
+    position: absolute;
+    color: #C9BEB6;
+    font-family:Arial black;
+    font-weight: bold;
+    font-size: 62px;
+    top: 110px;
+    left: 440px;
+}
+
+.jalan{
+    position: absolute;
+    color: black;
+    font-family:calibri;
+    font-weight: bold;
+    font-size: 24px;
+    top: 200px;
+    left: 490px;
+}
+
+
+.text {
+    position: absolute;
+    background-color: #C9BEB6;
+    width: 800px;
+    height: 225px;
+    padding: 50px;
+    margin: 20px; 
+    top: 225px;
+    left: 200px;
+}
+
+
+
+.text1 {
+    position: absolute;
+    font-family: calibri;
+    font-size: 24px;
+    top: 50px;
+    left: 300px;
+}
